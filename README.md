@@ -1,5 +1,4 @@
-# Portfolio-project
-![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 # Portfolio-project
 
@@ -27,23 +26,19 @@ Download Repo
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
+You have this running by either downloading the sipped file from the repository (https://github.com/ismayito/Portfolio-project/archive/refs/heads/main.zip).
+Or
+By clonning the repository from (https://github.com/ismayito/Portfolio-project/archive/refs/heads/main.zip)
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+1.After downloading you can extract the zipped files to your folder.
+2.open the index.html file and run it in the browser.
+3.You will have your project up and running;
 
 ## Authors
 
-👤 **Author1**
+👤 Mayito Ismail
 
 - GitHub: [@githubhandle](https://github.com/ismayito)
 - Twitter: [@twitterhandle](https://twitter.com/@IsmailMayito)

@@ -11,24 +11,29 @@
 
 .nav-bar {
   display: flex;
-  align-items: flex-start;
+  height: 92px;
   justify-content: space-between;
 }
 
 .name {
   color: #fff;
   font-family: 'Roboto', sans-serif;
-  align-items: center;
+  text-decoration: none;
   text-align: center;
+  line-height: 24px;
+  font-style: bold;
   font-weight: 700;
   font-size: 18px;
-  margin: 24px 0;
-  margin-left: 18px;
+  margin-top: 56px;
+  margin-bottom:12px;
+  margin-left: 12px;
 }
 
 .fa-bars {
   margin: 24px 0;
   color: #fff;
+  margin-top: 56px;
+  margin-bottom:12px;
   justify-content: flex-end;
   margin-right: 18px;
 }
@@ -42,23 +47,31 @@
   display: flex;
   flex-direction: column;
   margin-left: 24px;
+  margin-right: 24px;
 }
 
 .heading {
   color: #ff6b00;
   font-family: 'Crete Round', serif;
   font-weight: 400px;
-  margin-top: 50px;
-  letter-spacing: 1px;
-  line-height: 40px;
+  font-size: 40px;
+  margin-top: 120px;
+  letter-spacing: 0.37px;
+  line-height: 64px;
+  width: 327px;
+  height: 124px;
 }
 
 .sub-heading {
   color: #fff5e1;
   font-family: 'Roboto', sans-serif;
   font-weight: 700px;
+  width: 327px;
+  height: 27px;
+  align-items: center;
   font-size: 24px;
   line-height: 32px;
+  margin:12px 0;
 }
 
 .header-article {
@@ -78,13 +91,22 @@
   font-weight: 700px;
   margin-right: 20px;
   line-height: 24px;
+  margin-bottom:12px;
 }
 
 .list {
   margin-top: 12px;
+  width: 200px;
+  height:40px;
+  list-style-type: none;
   margin-left: 10px;
+  
 }
 
 .list a {
   margin-left: 12px;
+}
+
+.list li {
+  display: inline;
 }
