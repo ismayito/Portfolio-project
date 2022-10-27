@@ -44,7 +44,7 @@
   margin-left: 24px;
 }
 
-.heading  {
+.heading {
   color: #ff6b00;
   font-family: 'Crete Round', serif;
   font-weight: 400px;
@@ -68,7 +68,7 @@
   background-image: url("./assets/images/Group1.png");
   background-repeat: no-repeat;
   background-size: contain; 
-  background-position: right top;
+  background-position: right; top;
 }
 
 .introduction {
