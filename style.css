@@ -1,86 +1,81 @@
 
 * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
+
 .container {
-    background-color:#3C3A39;
-    
+  background-color: #3c3a39;
 }
 .nav-bar {
-    display:flex;
-    align-items:flex-start;
-    justify-content:space-between;
-   
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
 }
-.name{
-    color:#ffffff;
-    font-family: 'Roboto', sans-serif;
-    align-items:center;
-    text-align:center;
-    font-weight:700;
-    font-size:18px;
-    margin:24px 0;
-    margin-left:18px;
+.name {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  align-items:center;
+  text-align:center;
+  font-weight:700;
+  font-size:18px;
+  margin: 24px 0;
+  margin-left:18px;
 }
+
 .fa-bars{
-    margin:24px 0;
-    color:#ffffff;
-    justify-content:flex-end;
-    margin-right:18px; 
+  margin:24px 0;
+  color: #fff;
+  justify-content:flex-end;
+  margin-right:18px;
+
 }
 .header{
-  background:#1C1A19;
+  background: #1c1a19;
   width:100%;
- 
-
 }
 .header-section{
-    display:flex;
-    flex-direction:column;
-    margin-left:24px;
+  display:flex;
+  flex-direction:column;
+  margin-left:24px;
 }
 .heading  {
-    color: #FF6B00;
-    font-family: 'Crete Round', serif;
-    font-weight:400px;
-    margin-top:50px;
-    letter-spacing:1px;
-    line-height:40px;
-    
+  color: #ff6b00;
+  font-family: 'Crete Round', serif;
+  font-weight:400px;
+  margin-top:50px;
+  letter-spacing:1px;
+  line-height:40px;
 }
 .sub-heading {
-    color: #FFF5E1;
-    font-family: 'Roboto', sans-serif;
-    font-weigth:700px;
-    font-size:24px;
-    line-height:32px;
-
+  color: #fff5e1;
+  font-family: 'Roboto', sans-serif;
+  font-weight:700px;
+  font-size:24px;
+  line-height:32px;
 }
 .header-article {
-    display:flex;
-    flex-direction:column;
-    height:500px;
-    background-image:url("./assets/images/Group1.png");
-    background-repeat:no-repeat;
-    background-size:contain; 
-    background-position:right top;
+  display:flex;
+  flex-direction:column;
+  height:500px;
+  background-image:url("./assets/images/Group1.png");
+  background-repeat:no-repeat;
+  background-size:contain; 
+  background-position:right top;
 }
 .introduction {
-    color: #FFFFFF;
-    font-family: 'Poppins', sans-serif;
-    font-size:16px;
-    font-weight:700px;
-    margin-right:20px;
-    line-height:24px;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size:16px;
+  font-weight:700px;
+  margin-right:20px;
+  line-height:24px;
 }
-
 .list {
-    margin-top:12px;
-    margin-left:10px;
-   
+  margin-top:12px;
+  margin-left:10px;
 }
 .list a {
-    margin-left:12px;
+  margin-left:12px;
 }
