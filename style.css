@@ -67,13 +67,13 @@
   height: 500px;
   background-image: url("./assets/images/Group1.png");
   background-repeat: no-repeat;
-  background-size: contain; 
+  background-size: contain;
   background-position: right top;
 }
 
 .introduction {
   color: #fff;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins',sans-serif;
   font-size: 16px;
   font-weight: 700px;
   margin-right: 20px;
