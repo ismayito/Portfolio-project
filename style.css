@@ -113,8 +113,6 @@
   display: grid;
   background: #e5e5e5;
   grid-template-columns: 1fr;
-  padding-bottom: 120px;
-  margin-bottom: 24px;
 }
 
 .works-heading {
@@ -221,7 +219,6 @@
 .printing {
   display: grid;
   width: 327px;
-  height: 386px;
   background-image: url("./assets/images/proffessional printing.svg");
   background-repeat: no-repeat;
   background-size: contain;
@@ -229,7 +226,6 @@
   margin-right: 24px;
   margin-top: 24px;
   color: #fff;
-  margin-bottom: 24px;
 }
 
 .btn-details-printing {
@@ -364,7 +360,7 @@
 }
 
 .lang-heading {
-  margin-left: 44px;
+  padding-left: 36px;
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
@@ -373,7 +369,7 @@
 
 .footer-languages {
   display: flex;
-  margin-left: 130.5px;
+  margin-left: 124.23px;
   margin-right: 130.5px;
   margin-top: 11.73px;
   flex-direction: column;
@@ -407,8 +403,9 @@
 }
 
 .frame {
-  margin-left: 60px;
+  padding-left: 36px;
   font-weight: 700;
+  margin-left: 89px;
   font-size: 32px;
   line-height: 44px;
   color: #fff;
@@ -437,4 +434,15 @@
   justify-content: flex-start;
   align-items: center;
   margin-top: 44px;
+}
+
+.skill {
+  list-style-type: none;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 43px;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  margin-top: 32px;
+  text-align: center;
 }
