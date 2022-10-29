@@ -114,6 +114,7 @@
   background: #e5e5e5;
   grid-template-columns: 1fr;
   padding-bottom: 120px;
+  margin-bottom: 24px;
 }
 
 .works-heading {
@@ -189,12 +190,12 @@
   padding: 10px 12px;
   margin-top: 12px;
   background-color: #fff;
+  margin-bottom: 12px;
 }
 
 .btn-details {
   padding: 12px;
   background: #ff6b00;
-  margin-top: 12px;
   border: 1px solid #ff6b00;
   align-items: center;
   text-align: center;
@@ -204,6 +205,7 @@
   color: #fff;
   letter-spacing: 0.03em;
   font-family: 'Inter', sans-serif;
+  margin-top: 12px;
 }
 
 .btn-details:hover {
@@ -227,6 +229,27 @@
   margin-right: 24px;
   margin-top: 24px;
   color: #fff;
+  margin-bottom: 24px;
+}
+
+.btn-details-printing {
+  padding: 12px;
+  background: #ff6b00;
+  border: 1px solid #ff6b00;
+  align-items: center;
+  text-align: center;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  color: #fff;
+  letter-spacing: 0.03em;
+  font-family: 'Inter', sans-serif;
+}
+
+.btn-details-printing:hover {
+  background: #fff5f1;
+  border: 1px solid #f55800;
+  color: #ff6b00;
 }
 
 .print-title {
@@ -268,7 +291,7 @@
   line-height: 20px;
   font-family: 'Crete Round', serif;
   margin-left: 12px;
-  margin-bottom: 42px;
+  margin-bottom: 24px;
 }
 
 .print-list a {
@@ -281,6 +304,7 @@
   background: #1c1a19;
   width: 375px;
   padding-bottom: 40px;
+  margin-top: 120px;
 }
 
 .footer-heading {
