@@ -227,7 +227,7 @@
   margin-right: 24px;
   margin-top: 24px;
   color: #fff;
-  }
+}
 
 .print-title {
   margin-top: 84px;
@@ -238,9 +238,9 @@
   font-weight: 400;
   font-size: 32px;
   line-height: 44px;
-  }
+}
 
-  .print-info {
+.print-info {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -250,14 +250,14 @@
   margin-bottom: 12px;
 }
 
-  .print-list {
+.print-list {
   display: flex;
   align-items: center;
   list-style-type: none;
   margin-left: 4px;
-  }
+}
 
-  .print-list li {
+.print-list li {
   margin-top: 12px;
   background: rgba(255, 255, 255, 0.24);
   padding: 10px 12px;
@@ -269,21 +269,21 @@
   font-family: 'Crete Round', serif;
   margin-left: 12px;
   margin-bottom: 42px;
-  }
+}
 
-  .print-list a {
+.print-list a {
   text-decoration: none;
   color: #fff;
-  }
-  
-  .my-footer {
+}
+
+.my-footer {
   display: grid;
   background: #1c1a19;
   width: 375px;
   padding-bottom: 40px;
 }
 
-  .footer-heading {
+.footer-heading {
   margin-top: 120px;
   font-weight: 400;
   font-size: 72px;
@@ -294,9 +294,9 @@
   margin-right: 24px;
   margin-bottom: 24px;
   font-family: 'Crete Round', serif;
-  }
+}
 
-  .footer-info {
+.footer-info {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -305,29 +305,29 @@
   margin-left: 24px;
   margin-right: 24px;
   margin-bottom: 24px;
-  }
+}
 
-  .img-footer {
+.img-footer {
   background-image: url("./assets/images/footer.svg");
   background-repeat: no-repeat;
   background-size: contain;
   height: 400px;
   background-position: right bottom;
-  }
+}
 
-  .btn-footer {
+.btn-footer {
   margin-left: 24px;
   padding: 12px;
   width: 161px;
-  }
+}
 
-  .line {
+.line {
   border-bottom: 1px solid #fff;
   margin-left: 24px;
   margin-right: 24px;
-  }
+}
 
-  .lang-footer {
+.lang-footer {
   display: flex;
   margin-left: 86.77px;
   justify-content: flex-start;
@@ -337,17 +337,17 @@
   background-repeat: no-repeat;
   background-size: 18px;
   background-position: left;
-  }
+}
 
-  .lang-heading {
+.lang-heading {
   margin-left: 44px;
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
   color: #fff;
-  }
+}
 
-  .footer-languages {
+.footer-languages {
   display: flex;
   margin-left: 130.5px;
   margin-right: 130.5px;
@@ -355,9 +355,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  }
+}
 
-  .footer-languages li {
+.footer-languages li {
   list-style-type: none;
   font-weight: 400;
   font-size: 22px;
@@ -367,9 +367,9 @@
   font-family: 'Inter', sans-serif;
   margin-top: 32px;
   text-align: center;
-  }
+}
 
-  .frame-footer {
+.frame-footer {
   background-image: url("./assets/images/Rectangle.svg");
   background-repeat: no-repeat;
   background-size: 18px;
@@ -380,17 +380,17 @@
   justify-content: flex-start;
   align-items: center;
   margin-top: 44px;
-  }
+}
 
-  .frame {
+.frame {
   margin-left: 60px;
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
   color: #fff;
-  }
+}
 
-  .frame-work li {
+.frame-work li {
   list-style-type: none;
   font-weight: 400;
   font-size: 22px;
@@ -400,9 +400,9 @@
   font-family: 'Inter', sans-serif;
   margin-top: 32px;
   text-align: center;
-  }
+}
 
-  .frame-skill {
+.frame-skill {
   background-image: url("./assets/images/rect1.svg");
   background-repeat: no-repeat;
   background-position: left;
