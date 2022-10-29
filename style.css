@@ -7,6 +7,7 @@
 
 .container {
   background-color: #3c3a39;
+  width: 375px;
 }
 
 .nav-bar {
@@ -40,6 +41,7 @@
 .header {
   background: #1c1a19;
   width: 100%;
+  width: 375px;
 }
 
 .header-section {
@@ -111,7 +113,7 @@
 
 .works {
   display: grid;
-  background: #e5e5e5;
+  width: 375px;
   grid-template-columns: 1fr;
 }
 
