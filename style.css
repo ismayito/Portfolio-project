@@ -391,6 +391,11 @@
   text-align: center;
 }
 
+.footer-languages a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .frame-footer {
   background-image: url("./assets/images/Rectangle.svg");
   background-repeat: no-repeat;
@@ -425,6 +430,11 @@
   text-align: center;
 }
 
+.frame-work a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .frame-skill {
   background-image: url("./assets/images/rect1.svg");
   background-repeat: no-repeat;
@@ -447,4 +457,9 @@
   font-family: 'Inter', sans-serif;
   margin-top: 32px;
   text-align: center;
+}
+
+.skill a {
+  text-decoration: none;
+  color: #fff;
 }
