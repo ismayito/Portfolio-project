@@ -42,13 +42,13 @@
   background: #1c1a19;
   width: 100%;
   width: 375px;
+  height: 590px;
 }
 
 .header-section {
   display: flex;
   flex-direction: column;
   margin-left: 24px;
-  margin-right: 24px;
 }
 
 .heading {
@@ -78,19 +78,28 @@
 .header-article {
   display: flex;
   flex-direction: column;
-  height: 500px;
+  position: relative;
+}
+
+.my-image {
+  height: 256.89px;
+  width: 261.83px;
   background-image: url("./assets/images/Group1.png");
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: right top;
+  background-position: right;
+  position: absolute;
+  margin-top: 55.44px;
+  margin-left: 89.48px;
 }
 
 .introduction {
   color: #fff;
+  width: 327px;
+  height: 123px;
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-weight: 700px;
-  margin-right: 20px;
+  margin-right: 24px;
   line-height: 24px;
   margin-bottom: 12px;
 }
@@ -173,6 +182,7 @@
   list-style-type: none;
   display: flex;
   column-gap: 12px;
+  margin-top: 12px;
   align-items: center;
 }
 
@@ -316,6 +326,8 @@
   margin-right: 24px;
   margin-bottom: 24px;
   font-family: 'Crete Round', serif;
+  width: 327px;
+  height: 79px;
 }
 
 .footer-info {
@@ -334,13 +346,14 @@
   background-repeat: no-repeat;
   background-size: contain;
   height: 400px;
-  background-position: right bottom;
+  background-position: right;
 }
 
 .btn-footer {
   margin-left: 24px;
   padding: 12px;
   width: 161px;
+  position: relative;
 }
 
 .line {
@@ -441,7 +454,7 @@
   background-position: left;
   background-size: 18px;
   display: flex;
-  margin-left: 100px;
+  margin-left: 120px;
   margin-right: 59px;
   justify-content: flex-start;
   align-items: center;
@@ -454,6 +467,7 @@
   font-size: 22px;
   line-height: 43px;
   color: #fff;
+  margin-left: 20px;
   font-family: 'Inter', sans-serif;
   margin-top: 32px;
   text-align: center;
