@@ -177,6 +177,7 @@
 }
 
 .lang-list {
+  float:left;
   height: 40px;
   width: 297px;
   list-style-type: none;
