@@ -566,14 +566,15 @@
   justify-content: center;
   margin-top: 25px;
   gap: 20.1px;
-  color: #505f79;
-}
-
-.list-form a {
-  background: #505f79;
-  color: #505f79;
 }
 
 .list-form li {
   list-style-type: none;
+}
+
+.footer-image {
+  margin-top: 23px;
+  margin-left: 120px;
+  margin-right: 121px;
+  margin-bottom: 8px;
 }
