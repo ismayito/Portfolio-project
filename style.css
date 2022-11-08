@@ -555,6 +555,13 @@
   color: #fff;
   margin-top: 24px;
   margin-bottom: 206px;
+  border: none;
+}
+
+.Get-touch-btn:hover {
+  background: #fff5f1;
+  border: 1px solid #f55800;
+  color: #ff6b00;
 }
 
 .border3 {
