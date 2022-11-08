@@ -177,7 +177,7 @@
 }
 
 .lang-list {
-  float:left;
+  float: left;
   height: 40px;
   width: 297px;
   list-style-type: none;
@@ -477,4 +477,103 @@
 .skill a {
   text-decoration: none;
   color: #fff;
+}
+
+.contact-form {
+  background: #fff;
+  width: 375px;
+  margin-top: 120px;
+}
+
+.contact-header {
+  width: 327px;
+  height: 216px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  margin-left: 24px;
+  margin-right: 24px;
+  color: #172b4d;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 73px;
+  outline: none;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  color: #979493;
+  margin-left: 40px;
+  margin-right: 40px;
+  border: none;
+  margin-bottom: 14px;
+}
+
+.border {
+  margin-top: 14px;
+  border-bottom: 1px solid  #dbd8d7;
+  margin-right: 24px;
+  margin-left: 24px;
+  margin-bottom: 40px;
+}
+
+.border2 {
+  margin-top: 14px;
+  border-bottom: 1px solid  #dbd8d7;
+  margin-right: 24px;
+  margin-left: 24px;
+  margin-bottom: 25px;
+}
+
+.text {
+  height: 114px;
+  background: #fbf8f7;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.Get-touch-btn {
+  background: #ff6b00;
+  margin-left: 122px;
+  margin-right: 122px;
+  padding: 12px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  color: #fff;
+  margin-top: 24px;
+  margin-bottom: 206px;
+}
+
+.border3 {
+  border-bottom: 1px solid #dfe1e6;
+}
+
+.list-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  gap: 20.1px;
+  color: #505f79;
+}
+
+.list-form a {
+  background: #505f79;
+  color: #505f79;
+}
+
+.list-form li {
+  list-style-type: none;
 }
